@@ -1,0 +1,5 @@
+com\example\trabalho\controller\TimeController.class
+com\example\trabalho\model\Time.class
+com\example\trabalho\repository\TimeRepository.class
+com\example\trabalho\config\MvcConfig.class
+com\example\trabalho\TrabalhoAvaliativoApplication.class
